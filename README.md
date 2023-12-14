@@ -19,3 +19,11 @@ This project allowed me to use the knowledge that I have gained about networks i
 After being presented with the cybersecurity incident scenario, I used the supplemental files provided by the course to go through each core function of the NIST CSF framework to help the company improve their cybersecurity posture for furture attacks/incidents. 
 
 [Here](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/Incident%20Report%20Analysis%20-%20Ramiro%20Garces%20Jr.pdf) is my Incident Report Analysis for the fictional company that experienced this attack.
+
+
+## Certifications
+![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/NetworkPlus%20Logo%20Certified%20CE.png)
+
+Code: KRNM28XTKMV4QZKB
+
+Verify at: http://verify.CompTIA.org
