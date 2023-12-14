@@ -10,3 +10,12 @@ For this first Portfolio Activity from the Google Cybersecurity Professional Cer
 After checking the necessary boxes from referencing the supplimental material, there is an optional section where suggestions can be made about what controls or methods can be put into place to fix the issues that were found. I provided some of my own recommendations at the bottom of the page as you can see in the file below.
 
 [Here](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/Controls%20and%20Compliance%20Checklist%20-%20Ramiro%20Garces%20Jr.pdf) is the copy of my Controls and Compliance Checklist from the activity. 
+
+### _Use the NIST Cybersecurity Framework to Respond to a Security Incident (Google Cybersecurity Professional Certification)_
+This project allowed me to use the knowledge that I have gained about networks in the certification course so far to analyze a network incident that happened to a fictional company. Along with the network knowledge gained in the course, the NIST Cybersecurity Framework (CSF) is used to create an incident report for the organization to use for furture cybersecurity incidents. 
+
+![Image of the NIST CSF 5 core functions](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/NIST%20CSF%205%20core%20functions.png)
+
+After being presented with the cybersecurity incident scenario, I used the supplemental files provided by the course to go through each core function of the NIST CSF framework to help the company improve their cybersecurity posture for furture attacks/incidents. 
+
+[Here](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/Incident%20Report%20Analysis%20-%20Ramiro%20Garces%20Jr.pdf) is my Incident Report Analysis for the fictional company that experienced this attack.
