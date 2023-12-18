@@ -14,7 +14,7 @@ After checking the necessary boxes from referencing the supplimental material, t
 ### _Use the NIST Cybersecurity Framework to Respond to a Security Incident (Google Cybersecurity Professional Certification)_
 This project allowed me to use the knowledge that I have gained about networks in the certification course so far to analyze a network incident that happened to a fictional company. Along with the network knowledge gained in the course, the NIST Cybersecurity Framework (CSF) is used to create an incident report for the organization to use for furture cybersecurity incidents. 
 
-![Image of the NIST CSF 5 core functions](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/NIST%20CSF%205%20core%20functions.png)
+![Image of the NIST CSF 5 core functions](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NIST%20CSF%205%20core%20functions.png)
 
 After being presented with the cybersecurity incident scenario, I used the supplemental files provided by the course to go through each core function of the NIST CSF framework to help the company improve their cybersecurity posture for furture attacks/incidents. 
 
@@ -22,7 +22,7 @@ After being presented with the cybersecurity incident scenario, I used the suppl
 
 
 ## Certifications
-![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/NetworkPlus%20Logo%20Certified%20CE.png)
+![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NetworkPlus%20Logo%20Certified%20CE.png)
 
 Code: KRNM28XTKMV4QZKB
 
