@@ -53,7 +53,23 @@ Now, as mentioned before, the remaining nine characters are split up into three 
 
 So, using the single line above as an example, the entry is a directory (```d``` in the first character), the User Owner has Read, Write, and Execute permissions (```rwx``` in characters 2-4), the Group Owner has only Execute permissions (```--x``` in characters 5-7), and Other users have no permissions (```---``` in characters 8-10). 
 
+**Change file permissions**
+For this step of the project, the following prompt is given:
+>The organization does not allow other to have write access to any files. Based on the permissions established in Step 3, identify which file needs to have its permissions modified. Use a Linux command to modify these permissions.
 
+To change the permissions of the file I used the ```chmod``` command to remove **write** permissions from Other users.
+
+![Screenshot of the terminal changing permissions for the file](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/Change%20permission%20screenshot%20outlines.png)
+
+As is apparent from the screenshot above, I used the letter ```o``` (for Other user(s)), along with the ```-``` (minus) symbol to indicate that I want to **remove** ```w``` (write) permissions for the ___project_k.txt___ file.
+
+**Change file permissions on a hidden file**
+Here the project prompts that a hidden file in the directory should not have write permissions for anyone, but the user and group should be able to read the file. To accomplish this I used the following command to change permissions:
+
+```chmod u-w,g-w,g+r .project_x.txt```
+
+As you can see from the code snippet above, I use ```-``` to remove write permissions from the users that have them, and ```+``` to add read permission to the group. This command can be seen highlighted, in action, in the screenshot below.
+![Screenshot of changing permissions for a hidden file](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/Change%20hidden%20file%20permissions%20highlighted.png)
 
 ## Certifications
 ![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NetworkPlus%20Logo%20Certified%20CE.png)
