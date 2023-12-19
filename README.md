@@ -69,6 +69,7 @@ Here the project prompts that a hidden file in the directory should not have wri
 ```chmod u-w,g-w,g+r .project_x.txt```
 
 As you can see from the code snippet above, I use ```-``` to remove write permissions from the users that have them, and ```+``` to add read permission to the group. This command can be seen highlighted, in action, in the screenshot below.
+
 ![Screenshot of changing permissions for a hidden file](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/Change%20hidden%20file%20permissions%20highlighted.png)
 
 ## Certifications
