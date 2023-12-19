@@ -72,6 +72,13 @@ As you can see from the code snippet above, I use ```-``` to remove write permis
 
 ![Screenshot of changing permissions for a hidden file](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/Change%20hidden%20file%20permissions%20highlighted.png)
 
+**Change directory permissions**
+As per the instructions for this project, only the user (researcher2 in this case) should be able to access the **drafts** directory. From the permissions screenshots, it is apparent that the group has Execute permissions, so these need to be removed. To accomplish this I used the following command:
+
+```chmod g-x drafts```
+
+![Screenshot of changing directory permissions](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/Change%20directory%20permissions%20screenshot.png)
+
 ## Certifications
 ![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NetworkPlus%20Logo%20Certified%20CE.png)
 
