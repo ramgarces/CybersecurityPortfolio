@@ -30,7 +30,7 @@ Linux commands will be used in a shell to change permissions for files, hidden f
 **Check file and directory details**
 
 To check file permissions, the ```ls -l``` command should be used. However, since there are hidden files in this directory, adding the ```-a``` flag to the command can be used to display those files as well. Thus, the following command ```ls -la``` (the ```-l``` and ```-a``` flag combined) is used to display the permissions for all files in the __/home/researcher2/projects__ directory.
-
+![Screenshot of file permissions](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/Current%20file%20permissions%20screenshot.png)
 
 ## Certifications
 ![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NetworkPlus%20Logo%20Certified%20CE.png)
