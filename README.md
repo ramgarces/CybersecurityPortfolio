@@ -30,7 +30,30 @@ Linux commands will be used in a shell to change permissions for files, hidden f
 **Check file and directory details**
 
 To check file permissions, the ```ls -l``` command should be used. However, since there are hidden files in this directory, adding the ```-a``` flag to the command can be used to display those files as well. Thus, the following command ```ls -la``` (the ```-l``` and ```-a``` flag combined) is used to display the permissions for all files in the __/home/researcher2/projects__ directory.
+
 ![Screenshot of file permissions](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/Current%20file%20permissions%20screenshot.png)
+
+**Describe the permissions string**
+
+The permission string is the letters and hyphens that are on the left side of the example screenshot above. These letters and hyphens indicate if the entry is a file or directory and the permissions for that particular entry. I will explain the significance of the letters and hypens using the line below as an reference and example.
+
+![Screenshot of a single line in the Linux command line showing permissions](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/directory%20permissions%20line.png)
+
+The permissions string is a 10-character string with ten different "spots" to tell the user about the permissions for that particular file or directory. The first character, if it is a ```d``` indicates that entry is a directory. If the first character is a ```-``` (hyphen) then that entry is a file. For the rest of the characters, which are split up into three groups, the following letters are used:
+
+- ```r``` = Read permissions, the user can read or view the file or directory
+
+- ```w``` = Write permissions, the user can write or modify the file or directory
+
+- ```x``` = Execute permissions, the user can execute an executable file or search a directory
+
+- ```-``` = No permissions, the user does not have the permission where this character appears
+
+Now, as mentioned before, the remaining nine characters are split up into three groups. The first group of three (characters 2-4) are permissions for the user who is set as the **User Owner**. The second group of three (characters 5-7) are permissions for any users in the group who is set as the **Group Owner**. The last group of three (characters 8-10) are for any user who is not in the first two categories or **Other**.
+
+So, using the single line above as an example, the entry is a directory (```d``` in the first character), the User Owner has Read, Write, and Execute permissions (```rwx``` in characters 2-4), the Group Owner has only Execute permissions (```--x``` in characters 5-7), and Other users have no permissions (```---``` in characters 8-10). 
+
+
 
 ## Certifications
 ![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NetworkPlus%20Logo%20Certified%20CE.png)
