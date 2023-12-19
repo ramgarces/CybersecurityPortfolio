@@ -79,6 +79,10 @@ As per the instructions for this project, only the user (researcher2 in this cas
 
 ![Screenshot of changing directory permissions](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/Change%20directory%20permissions%20screenshot.png)
 
+**Summary**
+
+This project allowed me to apply the knowledge of changing permissions to files and directories that I gained through the preceeding videos and readings. I learned how to use different flags, symbols, and characters to add or remove permissions from three different types of users. After going through this project I am more confident in navigating the file system in Linux and more comfortable with working with file permissions.
+
 ## Certifications
 ![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NetworkPlus%20Logo%20Certified%20CE.png)
 
