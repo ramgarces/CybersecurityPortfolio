@@ -20,6 +20,8 @@ After being presented with the cybersecurity incident scenario, I used the suppl
 
 [Here](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/Incident%20Report%20Analysis%20-%20Ramiro%20Garces%20Jr.pdf) is my Incident Report Analysis for the fictional company that experienced this attack.
 
+### _Use Linux Commands to Manage File Permissions (Google Cybersecurity Professional Certification)_
+This project goes over managing file permissions. Several supplemental files and a Linux Virtual Machine hosted by Google are used to complete this project. The [main document](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/File%20permissions%20in%20Linux.pdf), which is to be completed as you go through the activity, has been made the main part of this project section below instead of using the file itself. [Here] is a file that is provided to show the structure of the default file permissions before the activity is started. 
 
 ## Certifications
 ![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NetworkPlus%20Logo%20Certified%20CE.png)
