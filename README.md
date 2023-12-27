@@ -159,6 +159,13 @@ The final task in this project uses the ```NOT``` operator to get records for **
 
 By using several operators and conditions in my SQL queries I was able to investigate suspicious activity that is occuring on the organizations network and systems. For instance, I was able to use the ```>``` and the ```=``` operators to find failed login attempts that took place after working hours. I was also able to use ```NOT```, ```AND```, ```OR```, and ```LIKE``` to sift through hundreds of employee records to find exactly what I was looking for in a more streamlined process than going through each record individually.
 
+### _Analyze a Vulnerable System for a Small Business (Google Cybersecurity Professional Certification)_
+For this project I was tasked with performing a vulnerability assessment for an e-commerce company that uses a remote database server for their employees to query information from. The employees use this database server to get information for potential customers, but the database has been open to the public since the company launched three years prior. 
+
+I was given a [template](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/Vulnerability%20assessment%20report%20template.pdf) that explains the system hardware used for the remote database and the scope which provides the focus and boudaries of the vulnerability assessment. In conjunction with the template, a supplemental file that outlines the [NIST SP 800-30 Rev. 1](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/NIST%20SP%20800-30%20Rev.%201.pdf) publication is used to conduct the vulnerability assessment. 
+
+For the vulnerability assessment, I was to provide a purpose statement, identify three threat sources for a risk assessment, provide the approach that I took for the vulnerability assessment, and a remediation strategy to improve the security of the system. [Here](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/Vulnerability%20assessment%20report%20-%20Ramiro%20Garces.pdf) is my vulnerability assessment - my responses are shown in **red**.
+
 ## Certifications
 ![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NetworkPlus%20Logo%20Certified%20CE.png)
 
