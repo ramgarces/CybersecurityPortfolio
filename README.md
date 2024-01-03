@@ -182,8 +182,8 @@ Description
 A small U.S. health care clinic experienced a security incident in the form of an organized group of unethical hackers installing ransomware on the clinic’s system. The hackers were able to perform this attack by successfully using a phishing email which contained a malicious attachment. Once the malicious attachment was downloaded, ransomware was deployed which encrypted the organization’s computer files and data.
 
 Tool(s) used
-Logs
-Possibly a SIEM
+
+None
 
 The 5 W's 
 
