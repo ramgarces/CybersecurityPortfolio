@@ -86,7 +86,7 @@ As per the instructions for this project, only the user (researcher2 in this cas
 
 This project allowed me to apply the knowledge of changing permissions to files and directories that I gained through the preceeding videos and readings. I learned how to use different flags, symbols, and characters to add or remove permissions from three different types of users. After going through this project I am more confident in navigating the file system in Linux and more comfortable with working with file permissions.
 
-### _Apply filters to SQL queries (Google Cybersecurity Professional Certification)_
+### _Apply Filters to SQL Queries (Google Cybersecurity Professional Certification)_
 For this project I ventured into the realm of SQL to use SQL filters to retrieve records from different datasets and investigate potential security issues as a security professional for a fictional organization. Here are the supplemental materials that were provided for this project:
 
 - [Apply filters to SQL queries](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
@@ -165,6 +165,54 @@ For this project I was tasked with performing a vulnerability assessment for an 
 I was given a [template](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/Vulnerability%20assessment%20report%20template.pdf) that explains the system hardware used for the remote database and the scope which provides the focus and boudaries of the vulnerability assessment. In conjunction with the template, a supplemental file that outlines the [NIST SP 800-30 Rev. 1](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/NIST%20SP%20800-30%20Rev.%201.pdf) publication is used to conduct the vulnerability assessment. 
 
 For the vulnerability assessment, I was to provide a purpose statement, identify three threat sources for a risk assessment, provide the approach that I took for the vulnerability assessment, and a remediation strategy to improve the security of the system. [Here](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/Vulnerability%20assessment%20report%20-%20Ramiro%20Garces.pdf) is my vulnerability assessment - my responses are shown in **red**.
+
+### _Document an Incident with an Incident Handler's Journal (Google Cybersecurity Professional Certification)_
+
+For this project, I was presented with a scenario in which a U.S.-based healthcare clinic was the victim of a ransomware attack and I was asked to fill in an entry on a [Incident Handler's Journal](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/Incident%20handler's%20journal%20.pdf). 
+
+Below is the information from the Incident Handler's Journal entry that I created from the template provided. 
+
+---
+
+Date: January 3, 2024
+
+Entry: #1
+
+Description
+A small U.S. health care clinic experienced a security incident in the form of an organized group of unethical hackers installing ransomware on the clinic’s system. The hackers were able to perform this attack by successfully using a phishing email which contained a malicious attachment. Once the malicious attachment was downloaded, ransomware was deployed which encrypted the organization’s computer files and data.
+
+Tool(s) used
+Logs
+Possibly a SIEM
+
+The 5 W's 
+
+-Who caused the incident?
+
+An organization of unethical hackers that target healthcare and transportation industries.
+
+-What happened?
+
+The hackers were able to install ransomware and encrypt a healthcare clinic’s data through the use of a phishing email which contained a malicious attachment.
+
+-When did the incident occur?
+
+On a Tuesday at approximately 9:00am (according to the project description)
+
+-Where did the incident happen?
+
+This incident happened at the healthcare clinic that was attacked by the organization of hackers.
+
+-Why did the incident happen?
+
+The incident was made possible because someone who works at the clinic downloaded a malicious attachment from a phishing email which allowed ransomware to be installed on the system.
+
+Additional notes
+
+The clinic may need to conduct better training for their employees, particularly in the area of identifying possible phishing emails or email security/safety.
+
+---
+
 
 ## Certifications
 ![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NetworkPlus%20Logo%20Certified%20CE.png)
